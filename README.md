@@ -7,7 +7,7 @@
 *you can download Talend API Tester - Free Edition to test all apis from here "https://chromewebstore.google.com/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm"*
 -------------------
 
-**Application Overview: **
+**Application Overview**
 The Student Management System backend application is designed to facilitate the management of student-related data,
 including teachers, quizzes, and courses for the current semester.
 -------------------
